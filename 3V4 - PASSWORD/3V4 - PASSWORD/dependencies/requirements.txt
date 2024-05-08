@@ -1,0 +1,7 @@
+cffi==1.16.0
+cryptography==42.0.7
+dnspython==2.6.1
+pycparser==2.22
+pyfiglet==0.8.post1
+pymongo==4.7.2
+termcolor==2.4.0
